@@ -3,3 +3,5 @@ rencana content ku
   javacript
 membuat website sederhana.
 * membuat website dengan reactjs
+
+* rencana fitur baru coba fitur 2
