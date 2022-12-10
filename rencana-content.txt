@@ -1,4 +1,5 @@
 rencana content ku
 * membuat video baru
   javacript
-membuat website sederhana
+membuat website sederhana.
+* membuat website dengan reactjs
