@@ -1,3 +1,4 @@
 rencana content ku
-mwmbuat video baru
-membat website sederhana
+* membuat video baru
+  javacript
+membuat website sederhana
