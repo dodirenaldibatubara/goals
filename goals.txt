@@ -1,3 +1,6 @@
 Resolusi
 * Paham Javascript
 * Menjadi junior Frontend web developer
+* belajar DOM
+* Belajar OOP
+* Belajar reactJS
